@@ -1,0 +1,22 @@
+
+# Python
+ia/.venv/
+ia/venv/
+__pycache__/
+*.py[cod]
+
+# Modelos e arquivos gerados
+*.pt
+*.onnx
+
+# React Native / Node
+node_modules/
+.expo/
+
+# VS Code e arquivos de ambiente
+.vscode/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db

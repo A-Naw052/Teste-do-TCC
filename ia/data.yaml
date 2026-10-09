@@ -1,0 +1,7 @@
+path: C:/Users/Aluno/Downloads/AccessOne/ia/dataset
+
+train: images
+val: images
+
+names:
+  0: my_bit_doce_leite
